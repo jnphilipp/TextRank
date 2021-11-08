@@ -1,0 +1,13 @@
+# Python
+__pycache__
+.venv
+.mypy_cache
+*.pyc
+
+# Other
+build
+.sync-exclude.lst
+
+# SublimeText
+*.sublime-project
+*.sublime-workspace
